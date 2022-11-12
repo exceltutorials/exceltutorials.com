@@ -19,6 +19,7 @@ h2 {
     width: 14%;
     color:black;
     font-size: 30px;
+    padding: 10px 25px;
 }
 
 .p1 {
@@ -31,6 +32,7 @@ h3 {
     width: 14%;
     color: black;
     font-size: 30px;
+    padding: 10px 25px;
 }
 
 h4 {
@@ -39,4 +41,5 @@ h4 {
     width: 14%;
     color: #000;
     font-size: 30px;
+    padding: 10px 25px;
 }
