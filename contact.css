@@ -1,0 +1,41 @@
+h1 {
+  font-size: 50px;
+}
+span {
+  background-image: linear-gradient(to right, #7D00FF, cyan);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Sora', sans-serif;
+    font-size: 50px;
+}
+
+span1 {
+  background-image: linear-gradient(to right, red, #FFF108);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Sora', sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+  background-image: linear-gradient(to right, #7D00FF, red);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Sora', sans-serif;
+    font-size: 50px;
+}
+
+p1 {
+  color: 000;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 15px;
+  color: grey;
+  font-family: 'Ubuntu', sans-serif;
+}
