@@ -1,5 +1,6 @@
 h1 {
   font-size: 50px;
+  font-family: 'Sora', sans-serif;
 }
 span {
   background-image: linear-gradient(to right, #7D00FF, cyan);
